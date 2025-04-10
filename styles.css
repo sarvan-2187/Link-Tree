@@ -77,6 +77,14 @@ html{
     gap: 1rem;
 }
 
+.head-line{
+    width: 5%;
+    border-radius: 12px;
+    background-color: black;
+    height: 0.3rem;
+    margin-bottom: 0.5rem;
+}
+
 .button{
     background-color: aliceblue;
     padding: 1rem;
@@ -108,7 +116,6 @@ html{
     margin-top: 1rem;
     font-weight: 500;
 }
-
 
 @media (max-width:768px){
     .button{
